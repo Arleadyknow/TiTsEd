@@ -46,6 +46,12 @@ namespace TiTsEd.ViewModel {
             get { return _currentFile == null ? "" : _currentFile.GetString("version"); }
         }
 
+        public AmfFile CurrentFile {
+            get {
+                return _currentFile;
+            }
+        }
+
         public bool HasData {
             get { return _currentFile != null; }
         }

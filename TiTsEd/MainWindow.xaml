@@ -72,8 +72,11 @@
             <TabItem Header="Misc" IsEnabled="{Binding Game.IsPC}">
                 <view:MiscPage Background="White"/>
             </TabItem>
-            <TabItem Header="Raw" IsEnabled="{Binding Game.IsPC}">
+            <TabItem Header="Flags" IsEnabled="{Binding Game.IsPC}">
                 <view:RawPage Background="White"/>
+            </TabItem>
+            <TabItem Header="Raw Save" IsEnabled="{Binding Game.IsPC}">
+                <view:RawStateViewPage Background="White"/>
             </TabItem>
         </TabControl>
 
