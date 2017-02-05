@@ -258,6 +258,18 @@ namespace TiTsEd.Model {
 
     }
 
+    public sealed class XmlCodexEntryGroup {
+        [XmlAttribute]
+        public string Name { get; set; }
+
+        [XmlArray, XmlArrayItem("CodexEntry")]
+        public string[] CodexEntries { get; set; }
+
+        public override string ToString() {
+            return Name;
+        }
+    }
+
     public sealed class XmlPerkGroup {
         [XmlAttribute]
         public string Name { get; set; }

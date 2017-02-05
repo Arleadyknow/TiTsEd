@@ -119,6 +119,146 @@
 			<CopyTag>wingCount</CopyTag>
 			<CopyTag>wingType</CopyTag>
 		</CopyTags>
+		<CodexEntries>
+			<CodexEntryGroup Name="Race: Core">
+				<CodexEntry>Anatae</CodexEntry>
+				<CodexEntry>Ausar</CodexEntry>
+				<CodexEntry>Cundarians</CodexEntry>
+				<CodexEntry>Daynar</CodexEntry>
+				<CodexEntry>Dzaan</CodexEntry>
+				<CodexEntry>Fanfir</CodexEntry>
+				<CodexEntry>Galotians</CodexEntry>
+				<CodexEntry>Gryvain</CodexEntry>
+				<CodexEntry>Humans</CodexEntry>
+				<CodexEntry>Kaithrit</CodexEntry>
+				<CodexEntry>Kalabast/Fhan’i</CodexEntry>
+				<CodexEntry>Kui-Tan</CodexEntry>
+				<CodexEntry>Laquines</CodexEntry>
+				<CodexEntry>Leithans</CodexEntry>
+				<CodexEntry>Ovir</CodexEntry>
+				<CodexEntry>Rahn</CodexEntry>
+				<CodexEntry>Rodenians</CodexEntry>
+				<CodexEntry>Roehm</CodexEntry>
+				<CodexEntry>Saeri</CodexEntry>
+				<CodexEntry>Saurmorians</CodexEntry>
+				<CodexEntry>Siel</CodexEntry>
+				<CodexEntry>Simii</CodexEntry>
+				<CodexEntry>Spinarrans</CodexEntry>
+				<CodexEntry>Suulas</CodexEntry>
+				<CodexEntry>Tarratch</CodexEntry>
+				<CodexEntry>Thraggen</CodexEntry>
+				<CodexEntry>Toves</CodexEntry>
+				<CodexEntry>Varmints</CodexEntry>
+				<CodexEntry>Vildarii</CodexEntry>
+				<CodexEntry>Vulkrimi</CodexEntry>
+			</CodexEntryGroup>
+			<CodexEntryGroup Name="Race: Mhen'ga">
+				<CodexEntry>Cunt Snakes</CodexEntry>
+				<CodexEntry>Kerokoras</CodexEntry>
+				<CodexEntry>Mimbranes</CodexEntry>
+				<CodexEntry>Naleen</CodexEntry>
+				<CodexEntry>Vanae</CodexEntry>
+				<CodexEntry>Venus Pitchers</CodexEntry>
+				<CodexEntry>Zil</CodexEntry>
+			</CodexEntryGroup>
+			<CodexEntryGroup Name="Race: Myrellion">
+				<CodexEntry>Bothrioc</CodexEntry>
+				<CodexEntry>Cockvines</CodexEntry>
+				<CodexEntry>Ganrael</CodexEntry>
+				<CodexEntry>Gold Myr</CodexEntry>
+				<CodexEntry>Myr Fungus</CodexEntry>
+				<CodexEntry>Nyrea</CodexEntry>
+				<CodexEntry>Red Myr</CodexEntry>
+			</CodexEntryGroup>
+			<CodexEntryGroup Name="Race: Tarkus">
+				<CodexEntry>Gabilani</CodexEntry>
+				<CodexEntry>Gray Goos</CodexEntry>
+				<CodexEntry>Lapinaras</CodexEntry>
+				<CodexEntry>Raskvel</CodexEntry>
+				<CodexEntry>Sydians</CodexEntry>
+			</CodexEntryGroup>
+			<CodexEntryGroup Name="Race: Uveto">
+				<CodexEntry>Essyras</CodexEntry>
+				<CodexEntry>Frostwyrm</CodexEntry>
+				<CodexEntry>Korgonne</CodexEntry>
+				<CodexEntry>Lurelings</CodexEntry>
+				<CodexEntry>Milodan</CodexEntry>
+			</CodexEntryGroup>
+			<CodexEntryGroup Name="Androids">
+				<CodexEntry>V-Ko</CodexEntry>
+				<CodexEntry>V-Ko IVs</CodexEntry>
+			</CodexEntryGroup>
+			<CodexEntryGroup Name="Corporations">
+				<CodexEntry>Aegis</CodexEntry>
+				<CodexEntry>BI/G</CodexEntry>
+				<CodexEntry>Camarilla</CodexEntry>
+				<CodexEntry>Humphard Inc.</CodexEntry>
+				<CodexEntry>J’ejune</CodexEntry>
+				<CodexEntry>JoyCo</CodexEntry>
+				<CodexEntry>KihaCorp</CodexEntry>
+				<CodexEntry>Nova Securities</CodexEntry>
+				<CodexEntry>Pyrite</CodexEntry>
+				<CodexEntry>Reaper</CodexEntry>
+				<CodexEntry>RhenWorld</CodexEntry>
+				<CodexEntry>Snugglé</CodexEntry>
+				<CodexEntry>Steele Tech</CodexEntry>
+				<CodexEntry>Xenogen</CodexEntry>
+			</CodexEntryGroup>
+            <CodexEntryGroup Name="Factions">
+				<CodexEntry>Black Void</CodexEntry>
+				<CodexEntry>J.A.F.</CodexEntry>
+				<CodexEntry>Scarlet Federation</CodexEntry>
+				<CodexEntry>T.S.C.</CodexEntry>
+				<CodexEntry>U.G.C.</CodexEntry>
+			</CodexEntryGroup>
+            <CodexEntryGroup Name="Religions">
+				<CodexEntry>Stormguard</CodexEntry>
+			</CodexEntryGroup>
+			<CodexEntryGroup Name="Items: Illegal">
+				<CodexEntry>Dumbfuck</CodexEntry>
+				<CodexEntry>Gush</CodexEntry>
+				<CodexEntry>Tentatool</CodexEntry>
+				<CodexEntry>The Treatment</CodexEntry>
+				<CodexEntry>Throbb</CodexEntry>
+			</CodexEntryGroup>
+			<CodexEntryGroup Name="Items: Legal">
+				<CodexEntry>BionaHoles</CodexEntry>
+				<CodexEntry>Bubble Buddy</CodexEntry>
+				<CodexEntry>ClearYu</CodexEntry>
+				<CodexEntry>Grav Cuffs</CodexEntry>
+				<CodexEntry>FizzyFix</CodexEntry>
+				<CodexEntry>Holodom</CodexEntry>
+				<CodexEntry>Muffstick</CodexEntry>
+				<CodexEntry>Rubber-Made</CodexEntry>
+				<CodexEntry>Suma Cream</CodexEntry>
+				<CodexEntry>SynthSheath</CodexEntry>
+			</CodexEntryGroup>
+			<CodexEntryGroup Name="Items: Technology">
+				<CodexEntry>AI Systems</CodexEntry>
+				<CodexEntry>Item Mechanics</CodexEntry>
+				<CodexEntry>Maia Series AI</CodexEntry>
+			</CodexEntryGroup>
+			<CodexEntryGroup Name="Medical: SSTDs">
+				<CodexEntry>Furpies</CodexEntry>
+				<CodexEntry>Locofever</CodexEntry>
+				<CodexEntry>Sneezing Tits</CodexEntry>
+			</CodexEntryGroup>
+			<CodexEntryGroup Name="Stories: Fiction">
+				<CodexEntry>||||||||</CodexEntry>
+				<CodexEntry>Becoming One...</CodexEntry>
+				<CodexEntry>Bull’s Strength</CodexEntry>
+				<CodexEntry>BXBI: I</CodexEntry>
+				<CodexEntry>BXBI: II</CodexEntry>
+				<CodexEntry>Captured...</CodexEntry>
+				<CodexEntry>Dragon’s Hoard</CodexEntry>
+				<CodexEntry>Diverting Jokes</CodexEntry>
+				<CodexEntry>Dildo Snakes</CodexEntry>
+				<CodexEntry>Fuck the System</CodexEntry>
+				<CodexEntry>Satyr Slave</CodexEntry>
+				<CodexEntry>Stolen Goods</CodexEntry>
+				<CodexEntry>Tentacles &amp; Tanukis</CodexEntry>
+			</CodexEntryGroup>
+		</CodexEntries>
 	</General>
 	<!-- ================================================================ -->
 	<Body>
